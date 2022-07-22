@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatin Tank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<div align="center" >  
 <img src="https://profile-counter.glitch.me/Jatin-Tank/count.svg" theme="dark" >
-
+</div>
 - 🔭 I’m currently working on **React Framework**
 
 - 🌱 I’m currently learning **Data Structures and aiming to be Software Engineer**
