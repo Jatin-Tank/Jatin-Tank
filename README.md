@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jatin Tank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Jatin-Tank/count.svg" theme="dark">
-</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-tank&label=Profile%20views&color=0e75b6&style=flat"
+        alt="jatin-tank" /> </p>
+
 - 🔭 I’m currently working on **React Framework**
 
 - 🌱 I’m currently learning **Data Structures and aiming to be Software Engineer**
@@ -13,6 +14,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://linkedin.com/in/www.linkedin.com/in/thejatintank" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="www.linkedin.com/in/thejatintank" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://instagram.com/_jxtxn__?igshid=ymmymta2m2y=" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="https://instagram.com/_jxtxn__?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/https://www.codechef.com/users/jatin_tank" target="blank"><img
+            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+            alt="https://www.codechef.com/users/jatin_tank" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/https://leetcode.com/jatin-tank/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="https://leetcode.com/jatin-tank/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
