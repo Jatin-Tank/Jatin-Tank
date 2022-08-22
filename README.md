@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Tank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark">
+    <img src="https://profile-counter.glitch.me/Jatin-tank/count.svg" theme="dark">
     <!--   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg" theme="dark" >   -->
 </p>
 - 🔭 I’m currently working on **React Framework**
