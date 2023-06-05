@@ -86,3 +86,8 @@
             alt="react" width="40" height="40" /> </a>
 </p>
 
+
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-tank&show_icons=true&locale=en&layout=compact"
+        alt="jatin-tank" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-tank&" alt="jatin-tank" /></p>
